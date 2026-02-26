@@ -55,6 +55,7 @@ Don't forget to look at your data! Use `View(abalone_clean)` in the _Console_.
 ## c. Exploratory data visualization
 
 ```{r abalone-scatterplot}
+#| message: false
 # based layer: ggplot 
 ggplot(data = abalone_clean, # starting with clean data frame
        aes(x = mean_ph, # x-axis should be pH, y-axis should be change in shell area
