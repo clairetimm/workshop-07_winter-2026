@@ -5,7 +5,7 @@ Week 7 workshop: linear models
 
 This repository contains two examples for running linear models.
 
-This is my personal repo forked from the ENVS-193DS-2026 organization. I am the sole contributor. 
+This is my personal repo forked from the ENVS-193DS-2026 organization and I am the sole contributor. 
 
 ## Data and file information
 
